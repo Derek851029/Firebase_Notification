@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743341773611",
+    "project_id": "apex-health-bce9d",
+    "storage_bucket": "apex-health-bce9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743341773611:android:8db1ae28dc967439a62b6e",
+        "android_client_info": {
+          "package_name": "com.apex_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743341773611-r7p4gnthi73vika3nutp0gkhju1qrhk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJc0IF4uv89Zw7APHjxs_D4494ieKvrc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743341773611-r7p4gnthi73vika3nutp0gkhju1qrhk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
